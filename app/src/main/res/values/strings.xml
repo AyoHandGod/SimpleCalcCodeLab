@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="add">Add</string>
+    <string name="sub">Sub</string>
+    <string name="div">Div</string>
+    <string name="mul">Mul</string>
+    <string name="firstNumber">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="computationError">Process failed. Computation Error</string>
+</resources>
